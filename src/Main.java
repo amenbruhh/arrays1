@@ -5,10 +5,7 @@ public class Main {
 
      // задача 1
 
-        int[] numbers = new int[12];
-        numbers[0] = 1;
-        numbers[1] = 2;
-        numbers[2] = 3;
+        int[] numbers =  {1, 2 ,3};
 
         double[] numbers1 = {1.57, 7.654, 9.986};
 
